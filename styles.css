@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+body{
+    background-color : #f7fbff;
+}
+header h1{
+    color: rgb(70,157,225);
+}
+header{
+    width: 365px ;
+    text-align: center;
+    position: relative;
+    margin: auto auto;
+}
